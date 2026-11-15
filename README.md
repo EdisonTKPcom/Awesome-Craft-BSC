@@ -16,8 +16,6 @@ Deploying contracts, running validators or forking DEX code carries real financi
 
 This list is specific to BNB Chain. General DEX protocol code and multi-chain infra also appear in Awesome Craft Web3; prefer that list for Uniswap-style protocol source, and this one for BNB Chain clients and official tooling. Deploying contracts or running validators carries operational and financial risk. This list is not investment or yield advice. Some BNB Chain repositories have historically targeted the retired Beacon Chain; those are labelled.
 
-Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), [Awesome Craft Web3](https://github.com/EdisonTKPcom/Awesome-Craft-Web3), [Awesome Craft Ethereum](https://github.com/EdisonTKPcom/Awesome-Craft-Ethereum).
-
 ## Contents
 
 - [Dashboard](#dashboard)
@@ -25,6 +23,8 @@ Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), [
 - [SDKs and developer tools](#sdks-and-developer-tools)
 - [DEX and protocol code](#dex-and-protocol-code)
 - [Security and related tooling](#security-and-related-tooling)
+- [Related lists](#related-lists)
+- [Star history](#star-history)
 
 ## Dashboard
 
@@ -39,7 +39,9 @@ Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), [
 </tr>
 </table>
 
-Stats snapshot taken on 2026-11-15 from the GitHub API, for GitHub-hosted repositories only. Official documentation and other non-GitHub entries are listed but have no stars, forks or push dates. Star badges next to GitHub entries update live.
+**FACT** (snapshot taken 2026-11-15, GitHub API): 11 listed projects, 10 of them on GitHub with public repository statistics. Official documentation and other non-GitHub entries are listed but have no stars, forks or push dates.
+
+**ESTIMATE**: 17.8k combined GitHub stars and 8.0k combined forks, summed from those API counts on the snapshot date. Live star badges next to GitHub entries may differ.
 
 ### 🏆 Leaderboard
 
@@ -97,6 +99,28 @@ pie showData
 ## Security and related tooling
 
 - [Foundry](https://github.com/foundry-rs/foundry) - A general EVM development toolkit commonly used to test and deploy BNB Chain contracts. Also listed in the Web3 and Ethereum lists because it is not BSC-specific. ![Stars](https://img.shields.io/github/stars/foundry-rs/foundry?style=flat-square&label=%E2%AD%90)
+
+## Related lists
+
+Other lists in the Awesome Craft series:
+
+- [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft) - A curated list of open-source, self-hostable alternatives to popular SaaS tools.
+- [Awesome Craft Agents](https://github.com/EdisonTKPcom/Awesome-Craft-Agents) - A curated list of open-source chat apps, coding agents, self-hosted agent bots, workflow automation and image-generation UIs.
+- [Awesome Craft AI](https://github.com/EdisonTKPcom/Awesome-Craft-AI) - A curated list of open-source, self-hostable AI runtimes, servers, Hugging Face libraries and related infrastructure.
+- [Awesome Craft CUDA](https://github.com/EdisonTKPcom/Awesome-Craft-CUDA) - A curated list of open-source CUDA learning material, kernel libraries, tooling and portability projects.
+- [Awesome Craft DeepSeek](https://github.com/EdisonTKPcom/Awesome-Craft-DeepSeek) - A curated list of official DeepSeek repositories and open-source harnesses, serving engines, eval tools and fine-tuning stacks that work with DeepSeek models.
+- [Awesome Craft DevOps](https://github.com/EdisonTKPcom/Awesome-Craft-DevOps) - A curated list of open-source, self-hostable alternatives to popular DevOps and hosting SaaS tools.
+- [Awesome Craft Ethereum](https://github.com/EdisonTKPcom/Awesome-Craft-Ethereum) - A curated list of verified open-source Ethereum clients, SDKs, dev frameworks, wallets and security tools.
+- [Awesome Craft EV](https://github.com/EdisonTKPcom/Awesome-Craft-EV) - A curated list of open-source software and hardware for electric vehicles and charging.
+- [Awesome Craft Hardware](https://github.com/EdisonTKPcom/Awesome-Craft-Hardware) - A curated list of open-source tools for PCB, FPGA, ASIC and chip design.
+- [Awesome Craft Hyperliquid](https://github.com/EdisonTKPcom/Awesome-Craft-Hyperliquid) - A curated list of verified open-source SDKs, node tools, analytics and community libraries for the Hyperliquid ecosystem.
+- [Awesome Craft Malaysia](https://github.com/EdisonTKPcom/Awesome-Craft-Malaysia) - A curated list of open-source tools useful to Malaysian SMEs, with verified MyInvois support called out separately.
+- [Awesome Craft Solana](https://github.com/EdisonTKPcom/Awesome-Craft-Solana) - A curated list of verified open-source Solana clients, SDKs, frameworks, explorers and program libraries.
+- [Awesome Craft Web3](https://github.com/EdisonTKPcom/Awesome-Craft-Web3) - A curated list of open-source DEX protocol code, self-custody software, indexers, frameworks and Blockchain infrastructure.
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/chart?repos=EdisonTKPcom/Awesome-Craft-BSC&amp;type=Date)](https://www.star-history.com/#EdisonTKPcom/Awesome-Craft-BSC&Date)
 
 ## Contributing
 
